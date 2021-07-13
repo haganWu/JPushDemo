@@ -1,4 +1,4 @@
-package com.jpushdemo;
+package com.csco.jpush;
 
 import com.facebook.react.ReactActivity;
 
